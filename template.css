@@ -42,3 +42,14 @@ body {
     font-size: 1.125rem;
     word-wrap: break-word;
 }
+
+.section2-inner button{
+    width: 160px;
+    height: 56px;
+    background-color: #f1ae0e;
+    color: #ffffff;
+    border-radius: 50px;
+    text-align: center;
+    border: 0 none transparent;
+    font-size: 1rem;
+}
