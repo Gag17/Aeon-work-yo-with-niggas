@@ -7,6 +7,12 @@ body {
 .first-section {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
+    width: 1100px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 .wrap {
     display: flex;
@@ -20,10 +26,18 @@ body {
 }
 
 .first-section-2 {
-    background-color: aqua;
     background-image: url("https://assets.nicepagecdn.com/11a8ddce/4267640/images/juicy-steak-medium-rare-beef-with-spices-grilled-vegetables.jpg ");
     width: 500px;
     height: 500px;
     background-size: cover;
+    border-radius: 50px;
     background-position: 50% 50%;
+}
+
+.first-section-1 h1{
+    font-size: 45px;
+}
+
+.first-section-1 p{
+    font-size: 20px;
 }
