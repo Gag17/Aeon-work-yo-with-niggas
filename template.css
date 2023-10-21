@@ -16,9 +16,9 @@ body {
 }
 
 .section2-inner {
+    font-family: Montserrat,sans-serif;
     width: 50%;
     height: 100%;
-    border: 1px solid;
 }
 .section2-inner img {
     width: 530px;
@@ -26,3 +26,19 @@ body {
     object-fit: cover;
     border-radius: 60px;
 }
+
+.section2-inner h1{
+    font-size: 3rem;
+    line-height: 1.1;
+    word-wrap: break-word;
+    font-weight: 600;
+}
+
+.section2-inner p{
+    font-family: Raleway,sans-serif;
+    line-height: 1.5;
+    font-weight: 200;
+    font-size: 1.125rem;
+    word-wrap: break-word;
+}
+
