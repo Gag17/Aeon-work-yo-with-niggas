@@ -4,6 +4,29 @@ body {
     background-color: #f9f6ee;
 }
 
+#section2 {
+    width: 1100px;
+    height: 600px;
+    border-radius: 50px;
+    background-color: white;
+    margin: 0 auto;
+    display: flex;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.section2-inner {
+    width: 50%;
+    height: 100%;
+    border: 1px solid;
+}
+.section2-inner img {
+    width: 530px;
+    height: 521px;
+    object-fit: cover;
+    border-radius: 60px;
+}
+
 .first-section {
     background-color: white;
     font-family: Arial, Helvetica, sans-serif;
