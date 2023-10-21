@@ -3,3 +3,27 @@ body {
     padding: 0;
     background-color: #f9f6ee;
 }
+
+.first-section {
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.first-section-1 {
+    background-color: aquamarine;
+    width: 500px;
+    height: 500px;
+}
+
+.first-section-2 {
+    background-color: aqua;
+    background-image: url("https://assets.nicepagecdn.com/11a8ddce/4267640/images/juicy-steak-medium-rare-beef-with-spices-grilled-vegetables.jpg ");
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    background-position: 50% 50%;
+}
