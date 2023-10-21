@@ -10,4 +10,19 @@ body {
     border-radius: 50px;
     background-color: white;
     margin: 0 auto;
+    display: flex;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.section2-inner {
+    width: 50%;
+    height: 100%;
+    border: 1px solid;
+}
+.section2-inner img {
+    width: 530px;
+    height: 521px;
+    object-fit: cover;
+    border-radius: 60px;
 }
